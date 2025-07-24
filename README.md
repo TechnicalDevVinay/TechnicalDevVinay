@@ -58,7 +58,7 @@ Tested in collaboration with LTMG Hospital for real-use feedback.
 
 ---
 
-### 🌌 Space Weather Pipeline
+### 🌌 ICME-SWE (Space) Weather Analysis
 Processed NASA solar wind data with **SpacePy** — cleaned `.cdf` files, extracted plasma metrics, and generated 8-panel scientific plots.
 
 ---
